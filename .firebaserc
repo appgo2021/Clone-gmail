@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "clone-78cd1"
-  }
+  "staging": "clone-3dfe0"
+  },
+  "targets": {}
 }

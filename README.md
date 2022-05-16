@@ -2,7 +2,7 @@
 
 `Gmail clone using ReactJS, React-Router, Redux & Firebase.`
 
-Gmail clone app Link: "https://clone-78cd1.web.app/"
+Gmail clone app Link: "https://clone-3dfe0.web.app/"
 
 The user can login with Google account, send new email by clicking Compose button and receive that email back from the firestore database.
 The received email will be popped up on the email row. When the user click the selected email, the user will reach to the mail screen which can show the complete mail.
